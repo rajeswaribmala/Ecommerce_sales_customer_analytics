@@ -1,0 +1,8 @@
+.env
+.env.*
+secrets.*
+credentials.*
+*.log
+*.tmp
+Thumbs.db
+desktop.ini
